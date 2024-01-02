@@ -1,0 +1,11 @@
+{
+  "name": "semantic-release-docker-tag",
+  "version": "1.0.0",
+  "description": "A Semantic release plugin, which uses http requests to tag an already pushed image with the semantic tags",
+  "main": "index.js",
+  "author": "Kai Fink",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.3"
+  }
+}
