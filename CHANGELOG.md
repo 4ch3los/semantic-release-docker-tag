@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.1.4...v1.2.0) (2024-09-24)
+
+
+### Features
+
+* add support for oci registries ([a9c39ae](https://github.com/4ch3los/semantic-release-docker-tag/commit/a9c39ae9428410d508459fa41ea3a40839dec68c))
+
 ## [1.1.4](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.1.3...v1.1.4) (2024-09-16)
 
 
