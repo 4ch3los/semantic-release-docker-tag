@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.0...v1.2.1) (2024-09-27)
+
+
+### Bug Fixes
+
+* harbor does still seem to require v1 manifest sometimes ([a7e2343](https://github.com/4ch3los/semantic-release-docker-tag/commit/a7e2343dc8c04e16d866eeb8242bd4a19ed618ae))
+
 # [1.2.0](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.1.4...v1.2.0) (2024-09-24)
 
 
