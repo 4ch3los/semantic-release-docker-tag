@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.2...v1.2.3) (2025-02-19)
+
+
+### Bug Fixes
+
+* update dependencies ([dc1c2f6](https://github.com/4ch3los/semantic-release-docker-tag/commit/dc1c2f65ce885333d33998713515232cc2e3e130))
+
 ## [1.2.2](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.1...v1.2.2) (2024-12-24)
 
 
