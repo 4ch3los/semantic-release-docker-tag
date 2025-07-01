@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.4...v1.2.5) (2025-07-01)
+
+
+### Bug Fixes
+
+* also log request url for better debugging ([c595024](https://github.com/4ch3los/semantic-release-docker-tag/commit/c595024bdc193f99540c99e1d5085ebe7aaa632a))
+
 ## [1.2.4](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.3...v1.2.4) (2025-05-08)
 
 
