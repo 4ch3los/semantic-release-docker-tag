@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.5...v1.2.6) (2025-09-22)
+
+
+### Bug Fixes
+
+* Merge pull request [#67](https://github.com/4ch3los/semantic-release-docker-tag/issues/67) from 4ch3los/dependabot/npm_and_yarn/axios-1.12.2 ([ddecd0e](https://github.com/4ch3los/semantic-release-docker-tag/commit/ddecd0e00a01ca825c022922d3be3ec044e9b9e3))
+
 ## [1.2.5](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.4...v1.2.5) (2025-07-01)
 
 
