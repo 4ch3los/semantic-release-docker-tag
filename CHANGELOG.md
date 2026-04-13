@@ -1,3 +1,10 @@
+## [1.2.7](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.6...v1.2.7) (2026-04-13)
+
+
+### Bug Fixes
+
+* update dependencies (Merge pull request [#88](https://github.com/4ch3los/semantic-release-docker-tag/issues/88) from 4ch3los/dependabot/npm_and_yarn/semantic-release-25.0.3) ([1e37524](https://github.com/4ch3los/semantic-release-docker-tag/commit/1e37524d87dcdd52de5fc2676b58223b744654eb))
+
 ## [1.2.6](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.5...v1.2.6) (2025-09-22)
 
 
