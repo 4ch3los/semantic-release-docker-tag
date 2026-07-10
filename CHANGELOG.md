@@ -1,3 +1,10 @@
+## [1.2.10](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.9...v1.2.10) (2026-07-10)
+
+
+### Bug Fixes
+
+* use config to get request url ([c80a3d2](https://github.com/4ch3los/semantic-release-docker-tag/commit/c80a3d2f2f96ee34f86d6de14147375ee3082467))
+
 ## [1.2.9](https://github.com/4ch3los/semantic-release-docker-tag/compare/v1.2.8...v1.2.9) (2026-06-17)
 
 
